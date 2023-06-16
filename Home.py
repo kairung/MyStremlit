@@ -2,6 +2,7 @@
 import streamlit as st
 
 st.header('kairung')
+st.image("./pic/kairung.jpg")
 col1, col2, col3 = st.columns(3)
 
 with col1:
